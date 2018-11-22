@@ -1,14 +1,14 @@
 package com.first.user.service;
 
 import com.alibaba.dubbo.common.utils.Assert;
-import com.gaoxi.entity.user.MenuEntity;
-import com.gaoxi.entity.user.PermissionEntity;
-import com.gaoxi.entity.user.RoleEntity;
-import com.gaoxi.entity.user.UserEntity;
-import com.gaoxi.enumeration.user.UserTypeEnum;
-import com.gaoxi.facade.user.UserService;
-import com.gaoxi.req.BatchReq;
-import com.gaoxi.req.user.*;
+import com.first.entity.user.MenuEntity;
+import com.first.entity.user.PermissionEntity;
+import com.first.entity.user.RoleEntity;
+import com.first.entity.user.UserEntity;
+import com.first.enumeration.user.UserTypeEnum;
+import com.first.facade.user.UserService;
+import com.first.req.BatchReq;
+import com.first.req.user.*;
 import com.google.common.collect.Lists;
 import org.junit.Test;
 import org.junit.runner.RunWith;

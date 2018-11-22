@@ -1,7 +1,7 @@
 package com.first.user.dao;
 
-import com.gaoxi.entity.user.UserEntity;
-import com.gaoxi.req.user.UserQueryReq;
+import com.first.entity.user.UserEntity;
+import com.first.req.user.UserQueryReq;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
